@@ -1,2 +1,4 @@
 # hello-world
-Test repository created on 8th Oct
+This is a test code
+
+Test repository created on 8th Oct 2018
